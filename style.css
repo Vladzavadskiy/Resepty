@@ -1,0 +1,148 @@
+.body{
+    background-image: url('Slide 16_9 - 1.jpg');
+    color: white;
+}
+
+h1{
+    color: white;
+    font-size: 50px;
+}
+
+main{
+    border: 3px solid #ABBB7C;
+    border-radius: 30px;
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    background-color: white;
+    box-shadow: 0px 0px 20px 10px #ABBB7C;
+}
+
+.div{
+    margin: 40px;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.one{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+
+.one1{
+    background-color: #ABBB7C;
+    width: 300px;
+    height: 300px;
+    transition: 1s;
+    margin-bottom: 150px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 20px 5px #808C60;
+}
+
+header{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #ABBB7C;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.img1 , .img3 , .img5{
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    left:321px;
+    border-radius: 10px;
+}
+
+.img2 , .img4 , .img6{
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    right: 316px;
+    border-radius: 10px;
+}
+
+.img7{
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    right: 607px;
+    border-radius: 10px;
+}
+
+.a1,.a2,.a3,.a4,.a5,.a6,.a7{
+    text-decoration: none;
+    color:white;
+}
+
+.cnopka1,.cnopka2,.cnopka3,.cnopka4,.cnopka5,.cnopka6,.cnopka7{
+    height:20px;
+    width: 50px;
+    float: right;
+    border:2px solid #79884E;
+    background-color: #ABBB7C;
+    margin-right: 10px;
+    font-size: 20px;
+    color: #79884E;
+}
+
+.p1,.p2,.p3,.p4,.p5,.p6,.p7{
+    color: black;
+}
+
+.div1,.div3,.div5{
+    background-color: #ABBB7C;
+    width: 300px;
+    height: 300px;
+    margin-left: 120px;
+    transition: 0.1s;
+    margin-bottom: 120px;
+    margin-top: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 20px 5px #808C60;
+}
+
+.div2,.div4,.div6{
+    background-color: #ABBB7C;
+    width: 300px;
+    height: 300px;
+    margin-right: 120px;
+    transition: 0.1s;
+    margin-bottom: 120px;
+    margin-top: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 20px 5px #808C60;
+}
+
+h3{
+    text-align: center;
+}
+
+.circle{
+    background-color: #7C7FBB;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    left:90%;
+    position: absolute;
+}
+
+.circle2{
+    background-color: #ABBB7C;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    right:90%;
+    position: absolute;
+}
+
+li{
+    font-size: 20px;
+}
